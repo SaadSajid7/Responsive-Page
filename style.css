@@ -1,0 +1,25 @@
+.accordion{
+  --bs-accordion-active-bg: white;
+  --bs-accordion-active-color: black;
+  --bs-accordion-border-width: 0;
+}
+
+.nav-link:hover, .login:hover{
+  color: blue !important;
+}
+
+.toph, .topt{
+  transition: .5s;
+}
+
+.toph:hover{
+  margin-top: 40px !important;
+}
+
+.topt:hover{
+  margin-top: 18px !important;
+}
+
+.border-bottom:hover{
+  border-bottom: 2px solid blue !important;
+}
